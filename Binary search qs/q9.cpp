@@ -65,4 +65,4 @@ int main()
     return 0;
 }
 
-//* see lec 47 Q1
+//* see lec 47 Q1  //* similar to book allocation
