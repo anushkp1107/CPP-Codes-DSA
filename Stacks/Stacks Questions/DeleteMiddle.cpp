@@ -27,9 +27,3 @@ void DeleteMiddle(stack<int> &inputStack, int N)
     int count = 0;
     solve(inputStack, count, N);
 }
-
-int main()
-{
-
-    return 0;
-}
