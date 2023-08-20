@@ -1,0 +1,27 @@
+// heaps is a CBT [complete binary tree]
+
+// max heap me parent node is bigger than child nodes
+
+// CBT me leaf nodes (N/2)+1 se N tk lie karte hai   
+
+/*
+    CBT IS -> every level is completely filled except the last level
+    nodes always filled from the left
+
+
+    IN HEAPS =>
+
+    node is at the i th index
+    left child is always at the 2*i th index (i is the current index)
+    right child is at the (2-i + 1)th index
+    parent is at the (i/2) index
+
+*/
+
+//https://youtu.be/hW8PrQrvMNc?feature=shared
+
+Identification -> k ke saath smallest ya largest keyword dia rahega
+
+
+agar k+smallest dia hai to max heap 
+agar k+ largest dia hai to min heap
